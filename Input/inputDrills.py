@@ -20,7 +20,6 @@ START HERE
 #and store their answer in a variable called favAnimal.
 
 favAnimal = input("What is your favorite animal?")
-
 #2) Get input from the user to the question "What is your favorite number?"
 #and store their answer in a variable called favNum. Convert favNum from a 
 #string variable to a int variable.
